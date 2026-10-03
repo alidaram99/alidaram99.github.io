@@ -1,0 +1,19 @@
+# Drop-in APIs
+
+> Drop-in APIs builds small, honestly-scoped tools for people and AI agents: free guards and checks that run locally, paid hosted checks only where a free local answer is not possible, and public Apify Actors. Every product page states its price and its real limitations in the first screen.
+
+## Products
+
+- [DoneLatch](https://alidaram99.github.io/donelatch/): DoneLatch refuses an AI coding agent's “done” until a fresh check passes, and until that check has been shown to fail when the required behavior is broken. (Free)
+- [ExactGround](https://alidaram99.github.io/exactground/): ExactGround blocks an AI coding agent from installing an npm or PyPI package that does not exist, and its hosted check tells you whether a function exists in the exact version you have installed. (Free guard, paid hosted checks)
+- [CanaryIndex](https://alidaram99.github.io/canaryindex/): CanaryIndex runs the same public file through document and transcription tools and publishes the quality, the cost, and the raw result, including when a tool could not be measured. (Free)
+- [Waraq (ورق)](https://alidaram99.github.io/waraqmd/): Waraq is a free offline Markdown reader and editor that can be the app Windows, Android, and ChromeOS use when you open a .md file. (Free)
+
+## Also from this portfolio
+
+- [Apify Actor portfolio](https://apify.com/dropin-apis): Pay-per-event Apify Actors, including drop-in alternatives for the Perspective, Azure Content Moderator and OpenAI Whisper APIs, plus App Store review scraping, Woolworths AU pricing, sitemap extraction, document-to-Markdown conversion and media transcription.
+- [API migration guides](https://alidaram99.github.io/api-alternatives/): Migration guides for retiring APIs (Perspective, Azure Content Moderator, OpenAI whisper-1) and other data tools.
+
+## Organization
+
+Drop-in APIs — https://apify.com/dropin-apis — https://github.com/alidaram99
