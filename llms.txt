@@ -9,6 +9,10 @@
 - [CanaryIndex](https://alidaram99.github.io/canaryindex/): CanaryIndex runs the same public file through document and transcription tools and publishes the quality, the cost, and the raw result, including when a tool could not be measured. (Free)
 - [Waraq (ورق)](https://alidaram99.github.io/waraqmd/): Waraq is a free offline Markdown reader and editor that can be the app Windows, macOS, Linux and ChromeOS use when you open a .md file. On Android it installs and accepts shared files, though not yet as a file-manager default. (Free)
 
+## New
+
+- [Structured Data to JSON](https://alidaram99.github.io/api-alternatives/structured-data-to-json-api/): Turn a public product, article, event, organization, local-business or docs page into validated JSON with evidence for every field. No LLM, no invented values. $0.009 per validated page.
+
 ## Also from this portfolio
 
 - [Apify Actor portfolio](https://apify.com/dropin-apis): Pay-per-event Apify Actors, including drop-in alternatives for the Perspective, Azure Content Moderator and OpenAI Whisper APIs, plus App Store review scraping, Woolworths AU pricing, sitemap extraction, document-to-Markdown conversion and media transcription.
